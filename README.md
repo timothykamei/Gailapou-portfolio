@@ -8,7 +8,7 @@ Skills: Technical and creative expertise
 Contact: Easy ways to connect with me
 
 #Repository Structure
-index.html  -    Main portfolio page
+index.html  -    Main portfolio page ||
 style.css   -    Custom styling
 
 Deployment
