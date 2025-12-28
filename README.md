@@ -7,9 +7,9 @@ Experience: Work history with detailed responsibilities
 Skills: Technical and creative expertise
 Contact: Easy ways to connect with me
 
-Repository Structure
-├── index.html        # Main portfolio page
+#Repository Structure
 
+├── index.html        # Main portfolio page
 ├── style.css         # Custom styling
 
 Deployment
