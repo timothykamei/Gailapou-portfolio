@@ -8,8 +8,8 @@ Skills: Technical and creative expertise
 Contact: Easy ways to connect with me
 
 #Repository Structure
-|----index.html  # Main portfolio page
-|----style.css   # Custom styling
+index.html  -    Main portfolio page
+style.css   -    Custom styling
 
 Deployment
 This portfolio is deployed using Netlify.
