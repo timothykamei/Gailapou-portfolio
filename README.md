@@ -11,7 +11,6 @@ Contact: Easy ways to connect with me
 index.html  -    Main portfolio page ||
 style.css   -    Custom styling
 
-Deployment
 This portfolio is deployed using Netlify.
 Visit the live site here: 
 https://gailapou-kamei-portfolion.netlify.app/
